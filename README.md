@@ -16,9 +16,13 @@ One platform for a church's whole week: sermons and content, giving, groups, vol
 
 **Phone side: volunteer app and worship practice**
 
-| Serve requests | Tuner | Nashville numbers course | Practice for the set |
+| Serve requests | Chord diagrams | Key finder | Song chart, capo and shapes |
 |---|---|---|---|
-| <img src="assets/pulpit-os/volunteer-app.webp" width="200" alt="Volunteer app"> | <img src="assets/pulpit-os/practice-tuner.webp" width="200" alt="Tuner"> | <img src="assets/pulpit-os/practice-course.webp" width="200" alt="Nashville numbers course"> | <img src="assets/pulpit-os/practice-set.webp" width="200" alt="Practice for the set"> |
+| <img src="assets/pulpit-os/volunteer-app.webp" width="200" alt="Serve requests"> | <img src="assets/pulpit-os/practice-chord-diagram.webp" width="200" alt="Chord diagrams"> | <img src="assets/pulpit-os/practice-key-finder.webp" width="200" alt="Key finder"> | <img src="assets/pulpit-os/practice-song-chart.webp" width="200" alt="Song chart, capo and shapes"> |
+
+| Chords in every key | Strum trainer | Tuner | Practice for the set |
+|---|---|---|---|
+| <img src="assets/pulpit-os/practice-chords-by-key.webp" width="200" alt="Chords in every key"> | <img src="assets/pulpit-os/practice-strum.webp" width="200" alt="Strum trainer"> | <img src="assets/pulpit-os/practice-tuner.webp" width="200" alt="Tuner"> | <img src="assets/pulpit-os/practice-set.webp" width="200" alt="Practice for the set"> |
 
 ## Code you can read
 
